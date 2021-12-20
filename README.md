@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IbrahimAlfeky
+- 👀 I’m interested in Data Analysis and Data Visualization
+- 🌱 I’m currently learning data Analysis
+- 📫 How to reach me linkedin:https://www.linkedin.com/in/ibrahim-al-feky-1032b9229/
